@@ -20,3 +20,14 @@ pub fn mult_tables_v1() {
     }
     println!("\n\n");
 }
+
+// function to print all multiplication tables from 1 to 10 variant 2
+#[allow(dead_code)]
+pub fn mult_tables_v2() {
+    println!("\nMultiplication tables of 1 to 10\n");
+    let mut i = 1;
+    while i < 11 {
+        exercise3::mult_table(i);
+        i += 1;
+    }   
+}
