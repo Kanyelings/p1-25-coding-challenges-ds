@@ -31,3 +31,18 @@ pub fn mult_tables_v2() {
         i += 1;
     }   
 }
+
+// functino to print all multiplication tables from 1 to 10 variant 3
+#[allow(dead_code)]
+pub fn mult_tables_v3() {
+    println!("\nMultiplication tables of 1 to 10\n");
+    let mut i = 1;
+    while i < 11 {
+        let mut j = 1;
+        while j <= 20 {
+            println!("{} * {} = {}", i, j, i * j);
+            j += 1;
+        } 
+        i += 1;
+    }
+}
