@@ -8,3 +8,14 @@ pub fn print_odds() {
     }
     println!("\n\n");
 }
+
+// function to print all positive odd numbers less than 100
+#[allow(dead_code)]
+pub fn print_odds2() {
+    let mut i = 1;
+    while i < 100 {
+        println!("i = {}", i);
+        i += 2;
+    }
+    println!("\n\n");
+}
