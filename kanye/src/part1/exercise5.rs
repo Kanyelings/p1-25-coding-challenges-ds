@@ -9,7 +9,9 @@ pub fn sum_one_to_ten() -> i32 {
 
 // function to display outcome of sum_one_to_ten()
 pub fn display_sum() {
+    println!("\nSum of numbers from 1 to 10\n");
     println!("The sum of numbers from 1 to 10 is: {}", sum_one_to_ten());
+    println!("\n\n");
 }
 
 // function to calculate the sum of numbers from 1 to 10 variant 2
