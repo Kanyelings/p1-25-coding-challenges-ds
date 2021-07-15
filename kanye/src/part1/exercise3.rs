@@ -20,3 +20,13 @@ pub fn mult_table(num: i32) {
 pub fn mult_table_seven_v1() {
     mult_table(7);
 }
+
+// function to print the multiplication table of 7 variant 2
+#[allow(dead_code)]
+pub fn mult_table_seven_variant() {
+    let mut i = 1;
+    while i < 20 {
+        println!("7 * {} = {}", i, i*7);
+        i += 1;
+    }
+}
