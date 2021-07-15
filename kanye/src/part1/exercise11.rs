@@ -21,3 +21,13 @@ pub fn average1(arr: [i32; 10]) {
     average = sum as f32 / arr.len() as f32;
     println!("The average of the numbers in the array is {}", average);
 }
+
+// function to print average of numbers in a borrowed array of numbers variant 2
+pub fn average2(arr: &[i32]) {
+    let mut sum = 0;
+    for i in arr.iter() {
+        sum += i;
+    }
+    let average = sum as f32 / arr.len() as f32;
+    println!("The average of the numbers in the array is {}", average);
+}
