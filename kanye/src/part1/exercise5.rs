@@ -23,3 +23,14 @@ pub fn sum_one_to_ten_2() -> i32 {
     }
     sum
 }
+
+// function to calculate the sum of numbers from 1 to 10 variant 3
+pub fn sum_one_to_ten_3() -> i32 {
+    let mut sum = 0;
+    let mut i = 1;
+    while i <= 10 {
+        sum += i;
+        i += 1;
+    }
+    sum
+}
