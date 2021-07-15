@@ -6,3 +6,12 @@ pub fn mult_table_seven() {
     }
     println!("\n\n");
 }
+
+// function to print the multiplication table of a number
+pub fn mult_table(num: i32) {
+    println!("\nMultiplication table of {}\n", num);
+    for i in 1..20 {
+        println!("{} * {} = {}", num, i, num*i);
+    }
+    println!("\n\n");
+}
