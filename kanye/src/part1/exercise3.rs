@@ -15,3 +15,8 @@ pub fn mult_table(num: i32) {
     }
     println!("\n\n");
 }
+
+// function to print the multiplication table of 7 variant 1
+pub fn mult_table_seven_v1() {
+    mult_table(7);
+}
