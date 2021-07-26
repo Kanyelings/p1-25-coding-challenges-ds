@@ -1,7 +1,5 @@
 package com.test;
 
 public class challenge_29 {
-    public static String indefiniteSum(String n1, String n2){
-        return Long.toString(Long.parseLong(n1) + Long.parseLong(n2));
-    }
+    //I don't understand what's meant by printing the distance between the first 100 prime numbers.
 }
