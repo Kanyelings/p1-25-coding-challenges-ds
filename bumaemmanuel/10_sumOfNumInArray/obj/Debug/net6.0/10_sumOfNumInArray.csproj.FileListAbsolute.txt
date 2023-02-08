@@ -1,0 +1,15 @@
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/bin/Debug/net6.0/10_sumOfNumInArray
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/bin/Debug/net6.0/10_sumOfNumInArray.deps.json
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/bin/Debug/net6.0/10_sumOfNumInArray.runtimeconfig.json
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/bin/Debug/net6.0/10_sumOfNumInArray.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/bin/Debug/net6.0/10_sumOfNumInArray.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/obj/Debug/net6.0/10_sumOfNumInArray.csproj.AssemblyReference.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/obj/Debug/net6.0/10_sumOfNumInArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/obj/Debug/net6.0/10_sumOfNumInArray.AssemblyInfoInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/obj/Debug/net6.0/10_sumOfNumInArray.AssemblyInfo.cs
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/obj/Debug/net6.0/10_sumOfNumInArray.csproj.CoreCompileInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/obj/Debug/net6.0/10_sumOfNumInArray.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/obj/Debug/net6.0/refint/10_sumOfNumInArray.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/obj/Debug/net6.0/10_sumOfNumInArray.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/obj/Debug/net6.0/10_sumOfNumInArray.genruntimeconfig.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/10_sumOfNumInArray/obj/Debug/net6.0/ref/10_sumOfNumInArray.dll

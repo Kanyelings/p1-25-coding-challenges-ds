@@ -1,0 +1,15 @@
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/bin/Debug/net6.0/6_printTenFactorial
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/bin/Debug/net6.0/6_printTenFactorial.deps.json
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/bin/Debug/net6.0/6_printTenFactorial.runtimeconfig.json
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/bin/Debug/net6.0/6_printTenFactorial.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/bin/Debug/net6.0/6_printTenFactorial.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/obj/Debug/net6.0/6_printTenFactorial.csproj.AssemblyReference.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/obj/Debug/net6.0/6_printTenFactorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/obj/Debug/net6.0/6_printTenFactorial.AssemblyInfoInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/obj/Debug/net6.0/6_printTenFactorial.AssemblyInfo.cs
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/obj/Debug/net6.0/6_printTenFactorial.csproj.CoreCompileInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/obj/Debug/net6.0/6_printTenFactorial.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/obj/Debug/net6.0/refint/6_printTenFactorial.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/obj/Debug/net6.0/6_printTenFactorial.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/obj/Debug/net6.0/6_printTenFactorial.genruntimeconfig.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/6_printTenFactorial/obj/Debug/net6.0/ref/6_printTenFactorial.dll

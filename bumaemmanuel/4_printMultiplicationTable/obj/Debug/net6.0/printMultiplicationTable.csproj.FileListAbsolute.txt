@@ -1,0 +1,15 @@
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/bin/Debug/net6.0/printMultiplicationTable
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/bin/Debug/net6.0/printMultiplicationTable.deps.json
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/bin/Debug/net6.0/printMultiplicationTable.runtimeconfig.json
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/bin/Debug/net6.0/printMultiplicationTable.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/bin/Debug/net6.0/printMultiplicationTable.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/obj/Debug/net6.0/printMultiplicationTable.csproj.AssemblyReference.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/obj/Debug/net6.0/printMultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/obj/Debug/net6.0/printMultiplicationTable.AssemblyInfoInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/obj/Debug/net6.0/printMultiplicationTable.AssemblyInfo.cs
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/obj/Debug/net6.0/printMultiplicationTable.csproj.CoreCompileInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/obj/Debug/net6.0/printMultiplicationTable.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/obj/Debug/net6.0/refint/printMultiplicationTable.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/obj/Debug/net6.0/printMultiplicationTable.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/obj/Debug/net6.0/printMultiplicationTable.genruntimeconfig.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTable/obj/Debug/net6.0/ref/printMultiplicationTable.dll

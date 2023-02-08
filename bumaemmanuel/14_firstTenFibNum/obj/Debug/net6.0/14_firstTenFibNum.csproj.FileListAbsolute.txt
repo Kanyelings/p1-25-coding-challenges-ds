@@ -1,0 +1,15 @@
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/bin/Debug/net6.0/14_firstTenFibNum
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/bin/Debug/net6.0/14_firstTenFibNum.deps.json
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/bin/Debug/net6.0/14_firstTenFibNum.runtimeconfig.json
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/bin/Debug/net6.0/14_firstTenFibNum.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/bin/Debug/net6.0/14_firstTenFibNum.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/obj/Debug/net6.0/14_firstTenFibNum.csproj.AssemblyReference.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/obj/Debug/net6.0/14_firstTenFibNum.GeneratedMSBuildEditorConfig.editorconfig
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/obj/Debug/net6.0/14_firstTenFibNum.AssemblyInfoInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/obj/Debug/net6.0/14_firstTenFibNum.AssemblyInfo.cs
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/obj/Debug/net6.0/14_firstTenFibNum.csproj.CoreCompileInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/obj/Debug/net6.0/14_firstTenFibNum.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/obj/Debug/net6.0/refint/14_firstTenFibNum.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/obj/Debug/net6.0/14_firstTenFibNum.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/obj/Debug/net6.0/14_firstTenFibNum.genruntimeconfig.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/14_firstTenFibNum/obj/Debug/net6.0/ref/14_firstTenFibNum.dll

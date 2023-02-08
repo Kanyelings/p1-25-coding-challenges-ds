@@ -1,0 +1,15 @@
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/bin/Debug/net6.0/15_nthFibNum
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/bin/Debug/net6.0/15_nthFibNum.deps.json
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/bin/Debug/net6.0/15_nthFibNum.runtimeconfig.json
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/bin/Debug/net6.0/15_nthFibNum.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/bin/Debug/net6.0/15_nthFibNum.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/obj/Debug/net6.0/15_nthFibNum.csproj.AssemblyReference.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/obj/Debug/net6.0/15_nthFibNum.GeneratedMSBuildEditorConfig.editorconfig
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/obj/Debug/net6.0/15_nthFibNum.AssemblyInfoInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/obj/Debug/net6.0/15_nthFibNum.AssemblyInfo.cs
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/obj/Debug/net6.0/15_nthFibNum.csproj.CoreCompileInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/obj/Debug/net6.0/15_nthFibNum.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/obj/Debug/net6.0/refint/15_nthFibNum.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/obj/Debug/net6.0/15_nthFibNum.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/obj/Debug/net6.0/15_nthFibNum.genruntimeconfig.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/15_nthFibNum/obj/Debug/net6.0/ref/15_nthFibNum.dll

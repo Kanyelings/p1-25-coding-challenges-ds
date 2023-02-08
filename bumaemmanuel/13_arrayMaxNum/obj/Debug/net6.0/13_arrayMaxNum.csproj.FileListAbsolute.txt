@@ -1,0 +1,15 @@
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/bin/Debug/net6.0/13_arrayMaxNum
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/bin/Debug/net6.0/13_arrayMaxNum.deps.json
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/bin/Debug/net6.0/13_arrayMaxNum.runtimeconfig.json
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/bin/Debug/net6.0/13_arrayMaxNum.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/bin/Debug/net6.0/13_arrayMaxNum.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/obj/Debug/net6.0/13_arrayMaxNum.csproj.AssemblyReference.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/obj/Debug/net6.0/13_arrayMaxNum.GeneratedMSBuildEditorConfig.editorconfig
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/obj/Debug/net6.0/13_arrayMaxNum.AssemblyInfoInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/obj/Debug/net6.0/13_arrayMaxNum.AssemblyInfo.cs
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/obj/Debug/net6.0/13_arrayMaxNum.csproj.CoreCompileInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/obj/Debug/net6.0/13_arrayMaxNum.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/obj/Debug/net6.0/refint/13_arrayMaxNum.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/obj/Debug/net6.0/13_arrayMaxNum.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/obj/Debug/net6.0/13_arrayMaxNum.genruntimeconfig.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/13_arrayMaxNum/obj/Debug/net6.0/ref/13_arrayMaxNum.dll

@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/prodfc/Documents/coding/c#/codingChallenge/8_CelsiusToFarenheit/9_FarenheitToCelsius/9_FarenheitToCelsius.csproj": {}
+  },
+  "projects": {
+    "/home/prodfc/Documents/coding/c#/codingChallenge/8_CelsiusToFarenheit/9_FarenheitToCelsius/9_FarenheitToCelsius.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/prodfc/Documents/coding/c#/codingChallenge/8_CelsiusToFarenheit/9_FarenheitToCelsius/9_FarenheitToCelsius.csproj",
+        "projectName": "9_FarenheitToCelsius",
+        "projectPath": "/home/prodfc/Documents/coding/c#/codingChallenge/8_CelsiusToFarenheit/9_FarenheitToCelsius/9_FarenheitToCelsius.csproj",
+        "packagesPath": "/home/prodfc/.nuget/packages/",
+        "outputPath": "/home/prodfc/Documents/coding/c#/codingChallenge/8_CelsiusToFarenheit/9_FarenheitToCelsius/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/prodfc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

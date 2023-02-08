@@ -1,0 +1,15 @@
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/bin/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/bin/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint.deps.json
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/bin/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint.runtimeconfig.json
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/bin/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint.dll
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/bin/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint.pdb
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/obj/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint.csproj.AssemblyReference.cache
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/obj/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint.GeneratedMSBuildEditorConfig.editorconfig
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/obj/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint.AssemblyInfoInputs.cache
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/obj/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint.AssemblyInfo.cs
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/obj/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint.csproj.CoreCompileInputs.cache
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/obj/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint.dll
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/obj/Debug/net6.0/refint/19_arrayOfFirstNPrimesFromStartPoint.dll
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/obj/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint.pdb
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/obj/Debug/net6.0/19_arrayOfFirstNPrimesFromStartPoint.genruntimeconfig.cache
+/home/prodfc/Documents/coding/c#/bumaEmmanuel/19_arrayOfFirstNPrimesFromStartPoint/obj/Debug/net6.0/ref/19_arrayOfFirstNPrimesFromStartPoint.dll

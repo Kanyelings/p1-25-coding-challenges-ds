@@ -1,0 +1,15 @@
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/bin/Debug/net6.0/printMultiplicationTableSeven
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/bin/Debug/net6.0/printMultiplicationTableSeven.deps.json
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/bin/Debug/net6.0/printMultiplicationTableSeven.runtimeconfig.json
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/bin/Debug/net6.0/printMultiplicationTableSeven.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/bin/Debug/net6.0/printMultiplicationTableSeven.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/obj/Debug/net6.0/printMultiplicationTableSeven.csproj.AssemblyReference.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/obj/Debug/net6.0/printMultiplicationTableSeven.GeneratedMSBuildEditorConfig.editorconfig
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/obj/Debug/net6.0/printMultiplicationTableSeven.AssemblyInfoInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/obj/Debug/net6.0/printMultiplicationTableSeven.AssemblyInfo.cs
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/obj/Debug/net6.0/printMultiplicationTableSeven.csproj.CoreCompileInputs.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/obj/Debug/net6.0/printMultiplicationTableSeven.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/obj/Debug/net6.0/refint/printMultiplicationTableSeven.dll
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/obj/Debug/net6.0/printMultiplicationTableSeven.pdb
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/obj/Debug/net6.0/printMultiplicationTableSeven.genruntimeconfig.cache
+/home/prodfc/Documents/coding/c#/codingChallenge/printMultiplicationTableSeven/obj/Debug/net6.0/ref/printMultiplicationTableSeven.dll
