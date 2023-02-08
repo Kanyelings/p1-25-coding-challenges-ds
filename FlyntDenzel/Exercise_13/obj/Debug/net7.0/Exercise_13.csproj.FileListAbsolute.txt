@@ -1,0 +1,15 @@
+/home/nchang/FlyntDenzel/Exercise_13/bin/Debug/net7.0/Exercise_13
+/home/nchang/FlyntDenzel/Exercise_13/bin/Debug/net7.0/Exercise_13.deps.json
+/home/nchang/FlyntDenzel/Exercise_13/bin/Debug/net7.0/Exercise_13.runtimeconfig.json
+/home/nchang/FlyntDenzel/Exercise_13/bin/Debug/net7.0/Exercise_13.dll
+/home/nchang/FlyntDenzel/Exercise_13/bin/Debug/net7.0/Exercise_13.pdb
+/home/nchang/FlyntDenzel/Exercise_13/obj/Debug/net7.0/Exercise_13.csproj.AssemblyReference.cache
+/home/nchang/FlyntDenzel/Exercise_13/obj/Debug/net7.0/Exercise_13.GeneratedMSBuildEditorConfig.editorconfig
+/home/nchang/FlyntDenzel/Exercise_13/obj/Debug/net7.0/Exercise_13.AssemblyInfoInputs.cache
+/home/nchang/FlyntDenzel/Exercise_13/obj/Debug/net7.0/Exercise_13.AssemblyInfo.cs
+/home/nchang/FlyntDenzel/Exercise_13/obj/Debug/net7.0/Exercise_13.csproj.CoreCompileInputs.cache
+/home/nchang/FlyntDenzel/Exercise_13/obj/Debug/net7.0/Exercise_13.dll
+/home/nchang/FlyntDenzel/Exercise_13/obj/Debug/net7.0/refint/Exercise_13.dll
+/home/nchang/FlyntDenzel/Exercise_13/obj/Debug/net7.0/Exercise_13.pdb
+/home/nchang/FlyntDenzel/Exercise_13/obj/Debug/net7.0/Exercise_13.genruntimeconfig.cache
+/home/nchang/FlyntDenzel/Exercise_13/obj/Debug/net7.0/ref/Exercise_13.dll
