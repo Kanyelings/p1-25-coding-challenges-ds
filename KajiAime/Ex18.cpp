@@ -6,7 +6,7 @@ bool isPrime(int n){
     if(n < 2){
         return false;
     }
-    for(int i=2; i<n/2; i++){
+    for(int i=2; i<=n/2; i++){
         if(n%i == 0){
             return false;
         }
@@ -16,9 +16,11 @@ bool isPrime(int n){
 int main()
 {
     int prime, j;
-    for(int i=0; i<100; i++){
+    int i=0; 
+    while(i<100){
         while(!isPrime(j)){
             j++;
+            i++;
         }
         cout << j<< " ";
         j++;
